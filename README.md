@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuqiye7
 - 👀 I’m interested in consulting.
-- 🌱 I’m currently studying Business Administration and data science at UC Berkeley. 
+- 🌱 I’m currently studying Business Administration and Data Science at UC Berkeley. 
 - 💞️ I’m looking to collaborate on consulting related project.
 - 📫 How to reach me: yuqiye@berkeley.edu
 
